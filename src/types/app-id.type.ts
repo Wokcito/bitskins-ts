@@ -1,0 +1,1 @@
+export type AppId = '730' | '570' | '440';

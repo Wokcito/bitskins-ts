@@ -1,0 +1,1 @@
+export type SortBy = 'created_at' | 'price' | 'wear_value';

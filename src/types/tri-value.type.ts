@@ -1,0 +1,1 @@
+export type TriValue = -1 | 0 | 1;
